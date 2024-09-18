@@ -1,16 +1,22 @@
-## Hi there 👋
+### ¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I'm Daniel, a backend developer with experience in Ruby on Rails. Recently, I've been transitioning into a full-stack role by diving deeper into frontend development with React.
 
-<!--
-**DanielRoig/danielroig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 Currently working in my side project [clippi.me](https://www.clippi.me)
 
-Here are some ideas to get you started:
+👨‍💻 My previous side meme-project [Kebab Finder](https://kebabfinder.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Previous companies:
+
+- <a href="#"><img src="https://avatars.githubusercontent.com/u/98949449?v=4.png" width="20" height="20" /></a> [Latitude](https://latitude.so)
+
+- <a href="#"><img src="https://avatars.githubusercontent.com/u/2291032?v=4.png" width="20" height="20" /></a> [Inspiring Benefits](https://inspiringbenefits.com)
+
+- <a href="#"><img src="https://avatars.githubusercontent.com/u/19835834?s=48&v=4.png" width="20" height="20" /></a> [Badi](https://badi.com)
+
+💡 Fascinated by SaaS platforms like [Linear](https://linear.app/), [Framer](https://www.framer.com/), [Notion](https://www.notion.so/) and [Railway](https://railway.app)
+#### Technologies
+
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)](#)
+[![React/React Native](https://img.shields.io/badge/-ReactJS-00D8FE?logo=react&logoColor=white&style=flat)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat)](#)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF9?logo=tailwindcss&logoColor=white&style=flat)](#)
