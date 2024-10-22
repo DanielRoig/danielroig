@@ -7,6 +7,8 @@ I'm Daniel, a backend developer with experience in Ruby on Rails. Recently, I've
 
 💼 Previous companies:
 
+- <a href="#"><img src="https://avatars.githubusercontent.com/u/45453918?s=200&v=4" width="20" height="20" /></a> [Vesto](https://vestoapp.com)
+
 - <a href="#"><img src="https://avatars.githubusercontent.com/u/98949449?v=4.png" width="20" height="20" /></a> [Latitude](https://latitude.so)
 
 - <a href="#"><img src="https://avatars.githubusercontent.com/u/2291032?v=4.png" width="20" height="20" /></a> [Inspiring Benefits](https://inspiringbenefits.com)
